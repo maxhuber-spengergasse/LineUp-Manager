@@ -1,6 +1,5 @@
 package com.example.lineupmanager.domain;
 
-import com.example.lineupmanager.service.CoachDTO;
 import jakarta.persistence.*;
 import jakarta.validation.constraints.NotNull;
 import lombok.*;
